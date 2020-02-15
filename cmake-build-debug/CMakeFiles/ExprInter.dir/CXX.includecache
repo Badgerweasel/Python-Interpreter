@@ -1,0 +1,74 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Expr.hpp
+Token.hpp
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Token.hpp
+SymTab.hpp
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/SymTab.hpp
+
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Parser.cpp
+vector
+-
+iostream
+-
+Token.hpp
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Token.hpp
+Parser.hpp
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Parser.hpp
+Statements.hpp
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Statements.hpp
+
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Parser.hpp
+Token.hpp
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Token.hpp
+Tokenizer.hpp
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Tokenizer.hpp
+SymTab.hpp
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/SymTab.hpp
+Expr.hpp
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Expr.hpp
+Statements.hpp
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Statements.hpp
+vector
+-
+iostream
+-
+map
+-
+
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Statements.hpp
+iostream
+-
+vector
+-
+Expr.hpp
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Expr.hpp
+SymTab.hpp
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/SymTab.hpp
+
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/SymTab.hpp
+string
+-
+map
+-
+vector
+-
+
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Token.hpp
+string
+-
+
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Tokenizer.hpp
+fstream
+-
+vector
+-
+Token.hpp
+C:/Users/Shipw/OneDrive/Documents/CS460/Exprinter 3.3/ExprInter/Token.hpp
+
